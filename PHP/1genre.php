@@ -23,6 +23,7 @@ try {
         <title>1genre test</title>
     </head>
     <body>
+        <div id="frame">
         <div id="container">
             <h1>Actors</h1>
             <table>
@@ -41,6 +42,7 @@ try {
                     <?php endwhile; ?>
                 </tbody>
             </table>
+        </div>
         </div>
     </body>
 </html>
